@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Idiom-ын утга таах",
-  "short_name": "Idiom тоглоом",
+  "name": "Idiom цээжлэх",
+  "short_name": "Idiom цээжлэх",
   "description": "Өдөр бүр 10 англи idiom сурч, Монгол утгыг нь таагаарай.",
   "lang": "mn",
   "start_url": "./",
